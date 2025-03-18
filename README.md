@@ -2,7 +2,8 @@
 
 <b>This is a simple electronic project of smart automatic garbagebin</b>
 
-It is a arduino based project where we use Arduino UNO, ultrosonic sensor, serve motor, and 5V power source to implpement this project in hardware
+It is a arduino based project where we use Arduino UNO, ultrosonic sensor, serve motor, and 5V power source to implpement this project in hardware.
+
 we use software calles Arduino IDE to develope, compile and upload the code to hardware.
 
 the samrt garbagebin works in such a way that when ever it detects a person with in the range of 30cm the lib of the trashbin will open automatically and it will stay open as long as it detects a person. once the person is away from the threshold distance the lid will wait for 3 seconds then it will get closed.
